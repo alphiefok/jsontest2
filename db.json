@@ -14,9 +14,5 @@
 		{
 			"id": "person-0005"
 		}
-	],
-	"objects/ids": {
-		"count": 5,
-		"ids": ["person-0001", "person-0002", "person-0003", "person-0004", "person-0005"]
-	}
+	]
 }
